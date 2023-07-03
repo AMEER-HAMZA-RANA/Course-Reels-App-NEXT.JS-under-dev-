@@ -1,5 +1,6 @@
 ### --> This is a Course Reels Application, currently, under development. 50% work is completed. Right now, it is not mobile responsive. I started it only 1 month ago. Therefore, there is a lot of work needed in order to give it a mature look and proper bug free functionality. I used NEXT.JS, TypeScript, TailwindCSS and Zustand(as a state management lib) in this app.
 ### --> LIVE LINK: https://course-reels-app-ameer-hamza-rana.vercel.app/
+### ------------------------------------------------------------------------------------------
 
 
 
